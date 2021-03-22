@@ -59,9 +59,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    "resolutions": {
-      "sharp": "0.24.0"
-      },
+    
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
