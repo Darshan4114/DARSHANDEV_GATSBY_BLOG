@@ -1,5 +1,5 @@
 ---
-title: teenage identity crisis
+title: "teenage identity crisis: making life decisions"
 date: "2021-03-22T20:15:07.215Z"
 description: "Dealing with the adolescent crisis. Handling the pressure of making life decisions"
 ---

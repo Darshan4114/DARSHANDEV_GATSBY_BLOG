@@ -3,7 +3,7 @@ module.exports = {
     title: `DarshanDev Blog`,
     author: {
       name: `Darshan Dhabale`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who lives and works in Pune building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
