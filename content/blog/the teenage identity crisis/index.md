@@ -1,7 +1,7 @@
 ---
 title: teenage identity crisis
 date: "2021-03-22T20:15:07.215Z"
-description: "Dealing with the adolescent crisis"
+description: "Dealing with the adolescent crisis. Handling the pressure of making life decisions"
 ---
 
 # teenage identity crisis
